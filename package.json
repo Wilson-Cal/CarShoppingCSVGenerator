@@ -1,0 +1,27 @@
+{
+  "name": "carshoppingcsvgenerator",
+  "version": "1.0.0",
+  "description": "Generates a CSV containing data on selected cars that a user is interested in.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilson-Cal/CarShoppingCSVGenerator.git"
+  },
+  "author": "Cal Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wilson-Cal/CarShoppingCSVGenerator/issues"
+  },
+  "homepage": "https://github.com/Wilson-Cal/CarShoppingCSVGenerator#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "d3-dsv": "^1.1.1",
+    "p-map": "^3.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}

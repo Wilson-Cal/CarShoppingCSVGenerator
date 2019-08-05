@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# auth file
+auth.json
+
+# csv files
+output/
